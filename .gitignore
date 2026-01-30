@@ -1,0 +1,14 @@
+# trained models
+qa_model_2_roberta/
+model/
+
+# python cache
+__pycache__/
+*.pyc
+
+# notebooks
+.ipynb_checkpoints/
+
+# system
+.DS_Store
+.cache/
